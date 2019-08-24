@@ -3,7 +3,7 @@ color:
   primary: c70039
   secondary: ff5733
   secondary-dark: 900c3f
-  muted: ffc300
+  muted: ff5733
   secondary-extra-dark: 581845
   navbar:
     bgDefault      : e74c3c
