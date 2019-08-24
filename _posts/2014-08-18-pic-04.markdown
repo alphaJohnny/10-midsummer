@@ -1,0 +1,11 @@
+---
+title: Kitchen (2nd)
+subtitle: Basement
+layout: default
+modal-id: 06
+date: 2019-09-22
+img: 20190531_125432.jpeg
+thumbnail: 20190531_125432.jpeg
+alt: image-alt
+description: Room in Basement. Mirrored Closet Doors. Water resilient vinyl flooring. 
+---
