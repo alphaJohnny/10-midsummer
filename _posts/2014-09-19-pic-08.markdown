@@ -1,0 +1,12 @@
+---
+title: Backyard Grill Area
+subtitle: Exterior
+layout: default
+modal-id: 08
+date: 2019-09-22
+img: D75_0108.jpeg
+thumbnail: D75_0108.jpeg
+alt: image-alt
+description: Extensive Concrete work by one of the most high quality contractors - Missisauga Patterned Concrete. Notice the separate grill area and multiple beautifully done steps. PS: A view inside shows the massive open concept family areas.
+
+---

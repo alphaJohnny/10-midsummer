@@ -1,0 +1,12 @@
+---
+title: Backyard
+subtitle: Exterior
+layout: default
+modal-id: 5
+date: 2019-09-22
+img: D75_0096.jpeg
+thumbnail: D75_0096.jpeg
+alt: image-alt
+description: Extensive concrete work in the backyard. An oasis to spend time with the family.
+
+---
