@@ -1,0 +1,12 @@
+---
+title: East View
+subtitle: Exterior
+layout: default
+modal-id: 1
+date: 2019-09-24
+img: D75_0026.jpeg
+thumbnail: D75_0026.jpeg
+alt: image-alt
+description: Wide East View.  Garage on the side. This beautiful lot is 112 feet from the east side.
+
+---

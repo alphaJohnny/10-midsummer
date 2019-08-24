@@ -1,0 +1,12 @@
+---
+title: North Elevation
+subtitle: Exterior
+layout: default
+modal-id: 1
+date: 2019-09-22
+img: D75_0034.jpeg
+thumbnail: D75_0034.jpeg
+alt: image-alt
+description: North-East. Beautiful bay-windows in the formal living. 13 foot height in the bedroom above with Castle Canopy.
+
+---
