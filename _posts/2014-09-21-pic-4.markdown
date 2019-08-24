@@ -7,6 +7,6 @@ date: 2019-09-22
 img: D75_0034.jpeg
 thumbnail: D75_0034.jpeg
 alt: image-alt
-description: North-East. Beautiful bay-windows in the formal living. 13 foot height in the bedroom above with Castle Canopy.
+description: North Elevation. Facing the park. Notice the 8 foot wide garden doors in the middle.  These open from the Formal Dinning space and directly overlook the park.
 
 ---
