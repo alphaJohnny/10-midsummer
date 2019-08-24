@@ -866,3 +866,28 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+.nopadding {
+   width: 100vw;
+   position: relative;
+   left:49%;
+   right:49%;
+   margin-left: -50vw;
+   margin-right: -50vw;
+}
+
+.iframe-container {
+  overflow: hidden;
+  // Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625)
+  padding-top: 56.25%;
+  position: relative;
+}
+
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
