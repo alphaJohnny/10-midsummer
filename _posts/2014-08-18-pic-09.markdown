@@ -1,0 +1,11 @@
+---
+title: Bathroom 7
+subtitle: Basement
+layout: default
+modal-id: 06
+date: 2019-09-22
+img: D75_0089.jpeg
+thumbnail: D75_0089.jpeg
+alt: image-alt
+description: 2x washrooms in the basement, both with standing all glass walled showers.
+---

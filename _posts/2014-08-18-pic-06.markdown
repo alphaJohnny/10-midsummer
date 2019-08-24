@@ -1,0 +1,11 @@
+---
+title: Seating Area
+subtitle: Basement
+layout: default
+modal-id: 06
+date: 2019-09-22
+img: D75_0080.jpeg
+thumbnail: D75_0080.jpeg
+alt: image-alt
+description: Large Seating Area / TV room / Play Area with GYM in the back.
+---

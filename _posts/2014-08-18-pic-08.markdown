@@ -1,0 +1,11 @@
+---
+title: Seating Area
+subtitle: Basement
+layout: default
+modal-id: 06
+date: 2019-09-22
+img: D75_0086.jpeg
+thumbnail: D75_0086.jpeg
+alt: image-alt
+description: Tons of Pot-lights in the basement $$$.
+---

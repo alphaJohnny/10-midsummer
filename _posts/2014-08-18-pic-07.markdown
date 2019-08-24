@@ -1,0 +1,11 @@
+---
+title: Seating Area
+subtitle: Basement
+layout: default
+modal-id: 06
+date: 2019-09-22
+img: D75_0084.jpeg
+thumbnail: D75_0084.jpeg
+alt: image-alt
+description: Extra Large windows in the Basement. Feels like a walk out basement.
+---
