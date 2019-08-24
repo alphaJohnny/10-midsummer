@@ -869,6 +869,7 @@ body {
 
 .nopadding {
    width: 100vw;
+   padding: 0px !important;
    position: relative;
    left:49%;
    right:49%;
