@@ -8,5 +8,4 @@ img: D75_0034.jpeg
 thumbnail: D75_0034.jpeg
 alt: image-alt
 description: North Elevation. Facing the park. Notice the 8 foot wide garden doors in the middle.  These open from the Formal Dinning space and directly overlook the park.
-
 ---
