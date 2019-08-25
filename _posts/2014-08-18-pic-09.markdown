@@ -1,11 +1,11 @@
 ---
-title: Bathroom 7
+title: Kitchen (2nd)
 subtitle: Basement
 layout: default
-modal-id: 17
-date: 2019-09-22
-img: D75_0089.jpeg
-thumbnail: D75_0089.jpeg
+modal-id: 09
+date: 2019-08-18
+img: 20190531_124757.jpeg
+thumbnail: 20190531_124757.jpeg
 alt: image-alt
-description: 2x washrooms in the basement, both with standing all glass walled showers.
+description: High Gloss White 2nd kitchen in the basement. Valence Light, Backsplash, Granite Counter, High End SS Appliances. Tons of pot lights.
 ---

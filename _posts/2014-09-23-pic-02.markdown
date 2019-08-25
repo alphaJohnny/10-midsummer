@@ -2,7 +2,7 @@
 title: East Elevation Detail
 subtitle: Exterior
 layout: default
-modal-id: 2
+modal-id: 02
 date: 2019-09-23
 img: D75_0024.jpeg
 thumbnail: D75_0024.jpeg
