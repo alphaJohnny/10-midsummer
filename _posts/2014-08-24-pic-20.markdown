@@ -1,0 +1,11 @@
+---
+title: Bedroom 7
+subtitle: Basement
+layout: default
+modal-id: 12
+date: 2019-08-18
+img: 20190531_125432.jpeg
+thumbnail: 20190531_125432.jpeg
+alt: image-alt
+description: Room in Basement. Mirrored Closet Doors. Water resilient vinyl flooring.
+---
