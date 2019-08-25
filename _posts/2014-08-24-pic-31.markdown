@@ -1,0 +1,11 @@
+---
+title: Formal Dining
+subtitle: Main Floor
+layout: default
+modal-id: 31
+date: 2019-08-24
+img: D75_9968.jpeg
+thumbnail: D75_9968.jpeg
+alt: image-alt
+description: Formal Dining.
+---

@@ -1,0 +1,11 @@
+---
+title: Family Room
+subtitle: Main Floor
+layout: default
+modal-id: 32
+date: 2019-08-24
+img: D75_9969.jpeg
+thumbnail: D75_9969.jpeg
+alt: image-alt
+description: Large 18x14 family room. Bose Audio system pre-wired for entertainment.
+---

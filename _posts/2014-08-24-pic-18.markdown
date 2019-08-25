@@ -1,11 +1,11 @@
 ---
-title: Bedroom 7
-subtitle: Basement
+title: Kitchen
+subtitle: Main Floor
 layout: default
-modal-id: 12
-date: 2019-08-18
-img: 20190531_125432.jpeg
-thumbnail: 20190531_125432.jpeg
+modal-id: 18
+date: 2019-08-24
+img: D75_0001.jpeg
+thumbnail: D75_0001.jpeg
 alt: image-alt
-description: Room in Basement. Mirrored Closet Doors. Water resilient vinyl flooring.
+description: Large open concept Kitchen. Granite counter. Granite natural stone tiles.
 ---

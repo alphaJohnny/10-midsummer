@@ -1,0 +1,11 @@
+---
+title: Foyer Entry
+subtitle: Main Floor
+layout: default
+modal-id: 36
+date: 2019-08-24
+img: D75_9987.jpeg
+thumbnail: D75_9987.jpeg
+alt: image-alt
+description: Beautiful natural stone and upgraded hardwood foyer.
+---

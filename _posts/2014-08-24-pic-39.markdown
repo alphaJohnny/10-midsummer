@@ -1,0 +1,11 @@
+---
+title: Office
+subtitle: Main Floor
+layout: default
+modal-id: 39
+date: 2019-08-24
+img: D75_9997.jpeg
+thumbnail: D75_9997.jpeg
+alt: image-alt
+description: Separate main floor office space with glass doors.
+---

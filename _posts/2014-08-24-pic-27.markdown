@@ -1,0 +1,11 @@
+---
+title: Formal Dining
+subtitle: Main Floor
+layout: default
+modal-id: 27
+date: 2019-08-24
+img: D75_9956.jpeg
+thumbnail: D75_9956.jpeg
+alt: image-alt
+description: Formal dining room. Notice the amazing 8 foot garden double-doors over looking the park.
+---
