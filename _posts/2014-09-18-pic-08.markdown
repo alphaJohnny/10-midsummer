@@ -1,0 +1,12 @@
+---
+title: Backyard
+subtitle: Exterior
+layout: default
+modal-id: 08
+date: 2019-09-18
+img: D75_0108.jpeg
+thumbnail: D75_0108.jpeg
+alt: image-alt
+description: Beautifully done large backyard. Custom Cedar Wood Shed.
+
+---
