@@ -1,0 +1,11 @@
+---
+title: 2nd Bedroom
+subtitle: 2nd Floor
+layout: default
+modal-id: 45
+date: 2019-08-20
+img: D75_0063.jpeg
+thumbnail: D75_0063.jpeg
+alt: image-alt
+description: Well sized 2nd bedroom with walk in closet.
+---

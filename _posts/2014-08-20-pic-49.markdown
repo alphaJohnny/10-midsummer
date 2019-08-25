@@ -1,0 +1,11 @@
+---
+title: Master Ensuite
+subtitle: 2nd Floor
+layout: default
+modal-id: 49
+date: 2019-08-20
+img: D75_0073.jpeg
+thumbnail: D75_0073.jpeg
+alt: image-alt
+description: Generous sized master ensuite. Corner Tub + Large glass standing shower.
+---

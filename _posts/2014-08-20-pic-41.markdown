@@ -1,11 +1,11 @@
 ---
-title: 4th Bedroom
+title: 4th Bedroom Ensuite
 subtitle: 2nd Floor
 layout: default
-modal-id: 40
+modal-id: 41
 date: 2019-08-20
-img: D75_0048.jpeg
-thumbnail: D75_0048.jpeg
+img: D75_0052.jpeg
+thumbnail: D75_0052.jpeg
 alt: image-alt
 description: Well sized 4th bedroom with attached ensuite. Walk in Closet.
 ---
