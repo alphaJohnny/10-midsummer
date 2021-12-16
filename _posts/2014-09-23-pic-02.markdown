@@ -1,5 +1,5 @@
 ---
-title: East Elevation Detail
+title: East Elevation
 subtitle: Exterior
 layout: default
 modal-id: 02

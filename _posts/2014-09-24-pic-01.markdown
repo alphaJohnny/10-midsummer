@@ -1,6 +1,6 @@
 ---
-title: East Elevation
-subtitle: Exterior
+title: East Elevation Detail
+subtitle: Kids Park in Front
 layout: default
 modal-id: 01
 date: 2019-09-24

@@ -1,6 +1,6 @@
 ---
 title: North East Elevation
-subtitle: Exterior
+subtitle: Wide Open North and East
 layout: default
 modal-id: 03
 date: 2019-09-22
