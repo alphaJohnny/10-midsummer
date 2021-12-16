@@ -1,5 +1,5 @@
 ---
-title: Formal Dining
+title: Formal Dining (Alternate Setup)
 subtitle: Main Floor
 layout: default
 modal-id: 29
